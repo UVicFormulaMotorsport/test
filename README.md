@@ -19,7 +19,7 @@ testing branching and git use for members
 	% git push origin <branch name>
 
 ###Make a Text File:
-using vim or a text editor, create a file of your choice
+Using vim or another text editor, create a file of your choice.
 
 ###Add File to git and Commit:
 #####Add file to Git:
@@ -47,6 +47,6 @@ using vim or a text editor, create a file of your choice
 ###Now fix any possible conflicts in your files!
 
 ###Make a pull request:
-- go onto github and on the right side there is "Pull Requests" under the "test" repository
-- Once under the "Pull Requests" section, make a new pull request (green button)
-- use your branch and make a comment for the pull request
+- Go onto github and on the right side there is "Pull Requests" under the "test" repository.
+- Once under the "Pull Requests" section, make a new pull request (green button).
+- Use your branch and make a comment for the pull request.
