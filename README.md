@@ -9,6 +9,13 @@ testing branching and git use for members
 - update your branch from master
 - make a pull request to master
 
+##Notes:
+###Windows:
+Please note that, while the Windows version of Git has a Git Shell Extension
+which recognizes all commands in the README. Pull request can be done locally 
+(ie not on the website) and there are ways to do all pulls / checkouts 
+through the GUI.
+
 ##How to:
 
 ###Make a branch:
