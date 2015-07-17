@@ -57,4 +57,4 @@ Using vim or another text editor, create a file of your choice.
 - Go onto github and on the right side there is "Pull Requests" under the "test" repository.
 - Once under the "Pull Requests" section, make a new pull request (green button).
 - Use your branch and make a comment for the pull request.
->>>>>>> 67a809efcb8ac12881df22f26623a24e391f9af6
+
