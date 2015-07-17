@@ -1,0 +1,6 @@
+n00b wuz here!
+
+Please note that, while the Windows version of Git has a Git Shell Extension
+which recognizes all commands in the README, the pull request can be done locally 
+(ie not on the website) and I would imagine there are ways to do all pulls / checkouts
+through the GUI.
