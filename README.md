@@ -13,36 +13,36 @@ testing branching and git use for members
 
 ###Make a branch:
 #####Make a Local Branch
-- git checkout -b <branch name>
+	% git checkout -b <branch name>
 
 #####Make the branch remote
-- git push origin <branch name>
+	% git push origin <branch name>
 
 ###Make a Text File:
-- using vim or a text editor, create a file of your choice
+using vim or a text editor, create a file of your choice
 
 ###Add File to git and Commit:
 #####Add file to Git:
-- git add .    (note, this adds all files in current directory!)
+	% git add .    (note, this adds all files in current directory!)
 
 #####Commit files added:
-- git commit -m "<your message for a commit>"
+	% git commit -m "<your message for a commit>"
 
 ####Push your file to your branch:
-- git push origin <branch name>
+	% git push origin <branch name>
 
 ###Update your branch from master:
 #####switch branch to master:
-- git checkout master
+	% git checkout master
 
 #####update your master copy with latest version:
-- git pull origin master
+	% git pull origin master
 
 #####switch back to your branch:
-- git checkout <branch name>
+	% git checkout <branch name>
 
 #####merge master into your branch:
-- git merge master
+	% git merge master
 
 ###Now fix any possible conflicts in your files!
 
