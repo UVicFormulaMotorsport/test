@@ -1,8 +1,4 @@
 # test
-<<<<<<< HEAD
-test
-test
-=======
 testing branching and git use for members
 
 ##Tasks:
