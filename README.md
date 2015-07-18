@@ -9,6 +9,13 @@ testing branching and git use for members
 - update your branch from master
 - make a pull request to master
 
+##Valuable Reads!!!:
+####The importance of a good commit (also funny):
+- https://github.com/torvalds/linux/pull/17
+
+####How to do a good commit:
+- http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+
 ##Notes:
 ###Windows:
 Please note that, while the Windows version of Git has a Git Shell Extension
@@ -33,7 +40,9 @@ Using vim or another text editor, create a file of your choice.
 	% git add .    (note, this adds all files in current directory!)
 
 #####Commit files added:
-	% git commit -m "<your message for a commit>"
+	% git commit --verbose 
+- Enter the commit message. Remember! The first line is the commit header and further lines are the body. 
+- Make sure to keep it wrapped to 72 characters or less on each line!! (see above "How to do a good commit")
 
 ####Push your file to your branch:
 	% git push origin <branch name>
